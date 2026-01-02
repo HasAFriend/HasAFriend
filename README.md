@@ -2,12 +2,12 @@
 
 <p align="center"> 
   Web & Mobile Developer | Experienced with Flutter, Next.js, and Firebase <br>
-  A passionate developer looking for fun projects to work with.
+  A passionate developer looking for fun projects to work with. 
 </p>
 
 ---
 
-## Tech Stack
+### Tech Stack
 -	Next.js
 -	Tailwind CSS
 -	Python
@@ -17,17 +17,17 @@
 
 ---
 
-## Personal Projects
+### Personal Projects
 - [To-Do List Web App](https://github.com/HasAFriend/to-do-list-webapp)
 
 ---
 
-## Work Projects
+### Work Projects
 - Educational Mobile Application | Flutter and Firebase
 - Promotional Web Application | Next.js
 - Internal Web Application | Next.js
 
 ---
 
-## Connect
+### Connect
 [LinkedIn](https://www.linkedin.com/in/iñigo-gabriel-gaston-11002a274)
