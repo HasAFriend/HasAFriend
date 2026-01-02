@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**HasAFriend/HasAFriend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Inigo Gaston 👋
+---
+## About Me
+Web & Mobile Developer | Experienced with Flutter, Next.js, and Firebase
+Looking for fun projects to work with.
+---
+## Personal Projects
+- [ToDo List App](https://github.com/HasAFriend/todo-list-app)
+---
+## Work Projects
+- Educational Mobile Application | Flutter and Firebase
+- Promotional Web Application | Next.js
+- Internal Web Application | Next.js
+---
+## Connect
+[LinkedIn](https://www.linkedin.com/in/iñigo-gabriel-gaston-11002a274)
