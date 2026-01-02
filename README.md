@@ -9,6 +9,7 @@
 
 ### Tech Stack 💻
 -	Next.js
+-	Typescript
 -	Tailwind CSS
 -	Python
 -	React
