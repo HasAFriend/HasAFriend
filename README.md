@@ -7,17 +7,6 @@
 
 ---
 
-### Tech Stack 💻
--	Next.js
--	TypeScript
--	Tailwind CSS
--	Python
--	React
--	Flutter
--	Firebase
-
----
-
 ### Personal Projects ✍🏼
 - [To-Do List Web App](https://github.com/HasAFriend/to-do-list-webapp)
 
@@ -27,6 +16,17 @@
 - Educational Mobile Application | Flutter and Firebase
 - Promotional Web Application | Next.js
 - Internal Web Application | Next.js
+
+---
+
+### Tech Stack 💻
+-	Next.js
+-	TypeScript
+-	Tailwind CSS
+-	Python
+-	React
+-	Flutter
+-	Firebase
 
 ---
 
