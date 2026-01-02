@@ -30,5 +30,5 @@
 ---
 
 ### Social Links 🤝
-[LinkedIn](https://www.linkedin.com/in/iñigo-gabriel-gaston-11002a274)
-[Resume](https://drive.google.com/file/d/1nk5qohlIombZof0JmY1I__2iZ6TzPWWl/view?usp=sharing)
+- [LinkedIn](https://www.linkedin.com/in/iñigo-gabriel-gaston-11002a274)
+- [Resume](https://drive.google.com/file/d/1nk5qohlIombZof0JmY1I__2iZ6TzPWWl/view?usp=sharing)
